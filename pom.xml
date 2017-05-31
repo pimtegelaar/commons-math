@@ -605,7 +605,7 @@
           <targetTests>
             <param>org.apache.commons.math*</param>
           </targetTests>
-          <verbose>true</verbose>
+          <verbose>false</verbose>
           <failWhenNoMutations>false</failWhenNoMutations>
         </configuration>
       </plugin>
